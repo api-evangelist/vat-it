@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VAT IT is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://vatit.com/
+VAT IT provides global indirect tax solutions, leveraging AI-driven technology to streamline e‑invoicing, VAT compliance, US sales tax, and VAT reclaim for businesses. Their platform offers tools such as VAT potential calculators, e‑invoicing mandate tools, and industry‑specific guides, aiming to maximize tax recovery and simplify compliance across multiple jurisdictions.
+
+**Areas:** Company · Tax · Compliance · AI · Finance · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://vatit.com/)
+- [Documentation](https://developer.vatit.com/)
+- [Support](https://vatit.com/support/)
+- [Blog](https://vatit.com/blog/)
+- [Trust centre](https://vatit.com/trust-center/)
+- [Terms of service](https://vatit.com/terms-and-conditions/)
+- [Privacy policy](https://vatit.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/vat-it/](https://apis.io/providers/vat-it/).
